@@ -16,5 +16,7 @@ article{
     background-color: beige;
 }
 footer{
-    
+    height: 50px;
+    width: 800px;
+    background-color: #330000; 
 }
